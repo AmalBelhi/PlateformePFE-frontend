@@ -1,0 +1,61 @@
+
+.etud{
+    padding: 0;
+    margin: 0;
+    text-decoration:none;
+    list-style: none;
+    box-sizing: border-box;
+    background: #dddcdc;
+    
+}
+
+.navbar {
+   
+    background-color: #5367a8;
+    height: 100px;
+    width:100%;
+    position: relative;
+}
+
+span.logo {
+    color: white;
+    font-size: 30px;
+    line-height: 90px;
+    padding: 0 120px;
+    font-weight: bold;
+}
+.navbar ul {
+    float: right;
+    margin-right: 20px;
+}
+.navbar ul li a{
+    color: white;
+    font-size: 12px;
+    line-height: 90px;
+    margin-right: 20px;
+    
+}
+
+#contenu {
+    
+    margin-left: 250px;
+    background-color: white;
+    height: 100px;
+    width:1100px;
+    border-radius: 15px;
+    margin-top: 90px;
+    margin-bottom: 50px;
+    }
+
+    footer{
+        margin-top: 90px;
+        background-color: #afafaf;
+        width:100%;
+        height: 100px;
+        position: relative;
+        left: 0;
+        bottom: 0;
+        color: white;
+        text-align: center;
+       
+    }
